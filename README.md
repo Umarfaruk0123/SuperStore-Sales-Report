@@ -10,8 +10,8 @@ An interactive sales analytics dashboard built using **Power BI** on the SuperSt
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
 ![Dashboard](https://img.shields.io/badge/Project-Dashboard-F2C811?style=for-the-badge) 
 
-
 ---
+
 
 ## 📁 Project Structure
 
