@@ -4,6 +4,15 @@ An interactive sales analytics dashboard built using **Power BI** on the SuperSt
 
 ---
 
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white) 
+![GoogleSheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
+![KPI Analysis](https://img.shields.io/badge/Project-KPI%20Analysis-0078D4?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
+![Dashboard](https://img.shields.io/badge/Project-Dashboard-F2C811?style=for-the-badge) 
+
+
+---
+
 ## 📁 Project Structure
 
 ```
